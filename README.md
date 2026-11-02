@@ -1,4 +1,4 @@
-### Wy Hello there 👋 I'm Zeeshan
+### Hello there 👋 I'm Zeeshan
 
 **CTO with a passion for governed Agents** 
 
