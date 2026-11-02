@@ -1,6 +1,6 @@
 ### Wy Hello there 👋 I'm Zeeshan
 
-**CTO by day, agent tinkerer by night.** 🌙
+**CTO with a passion for governed Agents** 
 
 I build **AI agents that ask before they act**,from Dubai.
 
