@@ -25,7 +25,7 @@ Most agent demos look great until they meet a real company: real data, real perm
 <td valign="top">
 
 **[Fitrah (فطرة)](https://c0ldskin.github.io/fitrah/): hereditary trust for autonomous AI agents.** Can an agent be *born* with trust it can't shed, and never hold more authority than its parent may delegate? Enforced without relying on the model.<br>
-Lab 0, Stage 1: **0 invalid births with enforcement, versus 10 without.** · [Website](https://c0ldskin.github.io/fitrah/) · [Repo](https://github.com/c0ldskin/fitrah) · [Collaborate](https://github.com/c0ldskin/fitrah/discussions/19)
+⏸ **Paused, seeking collaborators.** Enforcement beat prompts (0 invalid births vs 10), but a strong delegation broker matched it, so the open problems are lifecycle assurance and population-level safety. · [Findings](https://c0ldskin.github.io/fitrah/findings.html) · [Repo](https://github.com/c0ldskin/fitrah) · [Collaborate](https://github.com/c0ldskin/fitrah/discussions/19)
 
 </td>
 </tr>
