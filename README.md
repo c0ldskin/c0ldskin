@@ -1,6 +1,8 @@
 ### Salam 👋 I'm Zeeshan
 
-I build **open-source AI agents that ask before they act**, in English and Arabic, from Dubai.
+**CTO by day, agent tinkerer by night.** 🌙
+
+After hours I build **open-source AI agents that ask before they act**, in English and Arabic, from Dubai.
 
 Most agent demos look great until they meet a real company: real data, real permissions, real people. I build the other kind, where the safety model is part of the design, not a slide at the end. Then I open-source it, so you can read every line and run it yourself.
 
@@ -32,8 +34,8 @@ Claude Code · Microsoft Agent Framework · Azure AI · local models · Swift ·
 
 #### 📫 Find me
 
-[LinkedIn](https://www.linkedin.com/in/zmehdi) · [X @astrozeesh](https://x.com/astrozeesh) · Dubai, UAE
+[LinkedIn](https://www.linkedin.com/in/zmehdi) · Dubai, UAE
 
 Open to talks, workshops and collaborations on agentic AI in the region. Say hi on LinkedIn.
 
-<sub>أبني وكلاء ذكاء اصطناعي مفتوحي المصدر يستأذنون قبل أن يتصرّفوا، بالعربية والإنجليزية، من دبي.</sub>
+<sub>مدير تقني نهاراً، وصانع وكلاء ذكاء اصطناعي ليلاً. أبني وكلاء مفتوحي المصدر يستأذنون قبل أن يتصرّفوا، بالعربية والإنجليزية، من دبي.</sub>
