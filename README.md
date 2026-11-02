@@ -1,8 +1,8 @@
-### Salam 👋 I'm Zeeshan
+### Wy Hello there 👋 I'm Zeeshan
 
 **CTO by day, agent tinkerer by night.** 🌙
 
-After hours I build **open-source AI agents that ask before they act**, in English and Arabic, from Dubai.
+I build **AI agents that ask before they act**,from Dubai.
 
 Most agent demos look great until they meet a real company: real data, real permissions, real people. I build the other kind, where the safety model is part of the design, not a slide at the end. Then I open-source it, so you can read every line and run it yourself.
 
