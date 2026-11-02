@@ -17,6 +17,13 @@ Most agent demos look great until they meet a real company: real data, real perm
 
 <br>
 
+#### 🔬 Research
+
+**[Fitrah (فطرة)](https://github.com/c0ldskin/fitrah):** can an AI agent be *born* with trust it can't shed? Fitrah tests whether a child agent can inherit a mandatory constitutional core and never receive more authority than its parent may delegate, enforced without relying on the model.
+Lab 0, Stage 1: **0 invalid births with enforcement, versus 10 without.** [Looking for collaborators](https://github.com/c0ldskin/fitrah/discussions/19) in agent security, capability systems, formal methods and attestation.
+
+<br>
+
 #### 🧭 How I build agents
 
 - **Ask before acting.** A human approves anything that changes the world, and the approval shows exactly what will run.
