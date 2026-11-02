@@ -32,8 +32,8 @@ Claude Code · Microsoft Agent Framework · Azure AI · local models · Swift ·
 
 #### 📫 Find me
 
-[X @astrozeesh](https://x.com/astrozeesh) · Dubai, UAE
+[LinkedIn](https://www.linkedin.com/in/zmehdi) · [X @astrozeesh](https://x.com/astrozeesh) · Dubai, UAE
 
-Open to talks, workshops and collaborations on agentic AI in the region. Say hi on X.
+Open to talks, workshops and collaborations on agentic AI in the region. Say hi on LinkedIn.
 
 <sub>أبني وكلاء ذكاء اصطناعي مفتوحي المصدر يستأذنون قبل أن يتصرّفوا، بالعربية والإنجليزية، من دبي.</sub>
