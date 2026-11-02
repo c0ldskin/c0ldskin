@@ -19,8 +19,17 @@ Most agent demos look great until they meet a real company: real data, real perm
 
 #### 🔬 Research
 
-**[Fitrah (فطرة)](https://github.com/c0ldskin/fitrah):** can an AI agent be *born* with trust it can't shed? Fitrah tests whether a child agent can inherit a mandatory constitutional core and never receive more authority than its parent may delegate, enforced without relying on the model.
-Lab 0, Stage 1: **0 invalid births with enforcement, versus 10 without.** [Looking for collaborators](https://github.com/c0ldskin/fitrah/discussions/19) in agent security, capability systems, formal methods and attestation.
+<table>
+<tr>
+<td width="96" valign="top"><a href="https://c0ldskin.github.io/fitrah/"><img src="https://raw.githubusercontent.com/c0ldskin/fitrah/main/assets/logo.png" width="80" alt="Fitrah"></a></td>
+<td valign="top">
+
+**[Fitrah (فطرة)](https://c0ldskin.github.io/fitrah/): hereditary trust for autonomous AI agents.** Can an agent be *born* with trust it can't shed, and never hold more authority than its parent may delegate? Enforced without relying on the model.<br>
+Lab 0, Stage 1: **0 invalid births with enforcement, versus 10 without.** · [Website](https://c0ldskin.github.io/fitrah/) · [Repo](https://github.com/c0ldskin/fitrah) · [Collaborate](https://github.com/c0ldskin/fitrah/discussions/19)
+
+</td>
+</tr>
+</table>
 
 <br>
 
